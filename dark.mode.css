@@ -823,7 +823,7 @@ span:not(.spinner-item) {
 /* YouTube */
 [href*="youtu.be"],
 [href*="youtube.com"] {
-  color: #52D9FA !important;
+  color: #52d9fA !important;
 }
 /* Twitch */
 [href*="twitch.tv"] {
